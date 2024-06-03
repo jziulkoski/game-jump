@@ -1,4 +1,4 @@
-# game-jump
+# jump-game
 
 <h1 align="center"> Avatar Game Jump </h1>
 
